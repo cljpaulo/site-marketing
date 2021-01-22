@@ -40,4 +40,8 @@
         width: 100%;
         flex-direction: column;
     }
+    #contato ul {
+        padding-top: 30px;
+        justify-content: center;
+    }
 }
